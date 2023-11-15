@@ -229,7 +229,9 @@ section {
 
   .navbar li {
     position: relative;
+
   }
+
 
   .navbar a,
   .navbar a:focus {
